@@ -7,5 +7,5 @@ AUTHORIZATION_URL='https://api.twitter.com/oauth/authorize'
 
 DATABASE = 'learn'
 USER = 'postgres'
-PASSWORD = 'reversevengence353'
+PASSWORD = ''
 HOST = 'localhost'
