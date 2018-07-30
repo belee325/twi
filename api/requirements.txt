@@ -1,4 +1,0 @@
-oauth2
-psycopg2
-Flask
-requests
